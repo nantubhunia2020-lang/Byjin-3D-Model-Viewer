@@ -1,0 +1,6 @@
+{
+  "name": "Byjin 3D Viewer",
+  "description": "High-performance 3D STL & Rhino 3DM CAD model viewer with real-time inspection, weight calculator, and material rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

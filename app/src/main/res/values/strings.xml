@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Byjin 3D Viewer</string>
+    <string name="open_model">Open 3D File</string>
+    <string name="sample_models">Sample Models</string>
+    <string name="model_info">Model Info</string>
+    <string name="weight_calculator">Material &amp; Weight</string>
+    <string name="view_modes">View Modes</string>
+    <string name="cross_section">Cross Section</string>
+    <string name="reset_camera">Reset View</string>
+    <string name="take_snapshot">Snapshot</string>
+</resources>
